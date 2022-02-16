@@ -1,0 +1,11 @@
+.container {
+    width: 1150px;
+    margin: auto;
+}
+
+.menu {
+display: flex;
+justify-content: flex-end;
+margin-top: 20px;
+}
+
